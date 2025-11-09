@@ -1,4 +1,4 @@
-# SwapDex - Decentralized Exchange on Base Blockchain
+9# SwapDex - Decentralized Exchange on Base Blockchain
 
 ## Table of Contents
 - [Introduction](#-introduction)
@@ -145,4 +145,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💙 for the Base ecosystem
+Made with love for the Base ecosystem
